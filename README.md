@@ -1,2 +1,2 @@
 # tabnews
-implementação do tabnews do curso.dev
+Implementação do tabnews do curso.dev
